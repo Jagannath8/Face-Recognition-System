@@ -1,7 +1,7 @@
 # Face-Recognition-System
 
-The project “Face Recognition System” has been developed via  and MySQL. Face recognition is the task of identifying an already detected object as a known or unknown face.
-We have used  for model creation and MySql for database connectivity.
+The project “Face Recognition System” has been developed via Python and MySQL. Face recognition is the task of identifying an already detected object as a known or unknown face.
+We have used Python for model creation and MySql for database connectivity.
 
 ## Importance
 Facial recognition is a biometric software application capable of uniquely identifying or verifying a person by comparing and analyzing patterns based on the person’s facial contours. 
