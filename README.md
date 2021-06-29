@@ -19,6 +19,9 @@ The main objective of this application are:
 -Increase privacy and security which student cannot presenting  his friend while they are not.
 
 
+## Output
+
+<img align="center" alt="output"  src="https://github.com/Jagannath8/Face-Recognition-System/blob/main/ss/output.JPG" />
 
 ## Conclusion
 
@@ -27,7 +30,5 @@ The approach presented here for face detection and tracking decreases the comput
 Not only in video sequences, it has also been tested on live video using a webcam. Using this system many security and surveillance systems can be developed and required object can be traced down easily.
 
 
-
-<img align="center" alt="output"  src="https://github.com/Jagannath8/Face-Recognition-System/blob/main/ss/output.JPG" />
 
 <a href="https://github.com/Jagannath8">Jagannath Pal</a>
