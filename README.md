@@ -32,3 +32,8 @@ Not only in video sequences, it has also been tested on live video using a webca
 
 
 <a href="https://github.com/Jagannath8">Jagannath Pal</a>
+
+<a href="https://github.com/Debidatta-07">Debidatta Rout</a>
+
+<a href="https://github.com/Sambit1708">Sambit Kumar Khandai</a>
+
